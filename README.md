@@ -1,7 +1,7 @@
 # Rust Projects
 - r000
     - Name: Rust Projects
-    - Repo: 
+    - Repo: https://github.com/feg59crz/my-rust-projects
 - r001
     - Name: hello_word
     - Desc: prints "Hello, World!"
