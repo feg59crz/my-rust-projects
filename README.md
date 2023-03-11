@@ -5,20 +5,25 @@
 - r001
     - Name: hello_word
     - Desc: prints "Hello, World!"
-    - Status: Finished
+    - Status: Ok
     - Repo: https://github.com/feg59crz/rust-hello-world
 - r002
     - Name: hello_cargo
     - Desc: prints "Hello, World!" (made with Cargo)
-    - Status: Finished
+    - Status: Ok
     - Repo: https://github.com/feg59crz/rust-hello_cargo
 - r003
     - Name: guessing_game
     - Desc: Tutorial from The Rust Programming Language Book
-    - Status: Finished
+    - Status: Ok
     - Repo: https://github.com/feg59crz/rust-guessing-game
 - r004
     - Name: variables
     - Desc: Test of imutable variables and references
-    - Status: Finished
+    - Status: Ok
     - Repo: https://github.com/feg59crz/rust-variable-test
+- r005
+    - Name: functions
+    - Desc: Function example (+ parameters)
+    - Status: Ok
+    - Repo: https://github.com/feg59crz/rust-ex-function
