@@ -30,7 +30,7 @@
 -r006
     - Name: icd002 att-var2
     - Desc: Simples média de notas
-    - From:
+    - From: https://github.com/feg59crz/python-icd002-att_var2
     - Status: Ok
     - Repo: https://github.com/feg59crz/rust-icd002-att_var2
 
