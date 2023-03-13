@@ -3,17 +3,17 @@
     - Name: Rust Projects
     - Repo: https://github.com/feg59crz/my-rust-projects
 - r001
-    - Name: hello_word
+    - Name: hello word
     - Desc: prints "Hello, World!"
     - Status: Ok
     - Repo: https://github.com/feg59crz/rust-hello-world
 - r002
-    - Name: hello_cargo
+    - Name: hello cargo
     - Desc: prints "Hello, World!" (made with Cargo)
     - Status: Ok
-    - Repo: https://github.com/feg59crz/rust-hello_cargo
+    - Repo: https://github.com/feg59crz/rust-hello\_cargo
 - r003
-    - Name: guessing_game
+    - Name: guessing game
     - Desc: Tutorial from The Rust Programming Language Book
     - Status: Ok
     - Repo: https://github.com/feg59crz/rust-guessing-game
@@ -27,3 +27,10 @@
     - Desc: Function example (+ parameters)
     - Status: Ok
     - Repo: https://github.com/feg59crz/rust-ex-function
+-r006
+    - Name: icd002 att-var2
+    - Desc: Simples média de notas
+    - From:
+    - Status: Ok
+    - Repo: https://github.com/feg59crz/rust-icd002-att_var2
+
